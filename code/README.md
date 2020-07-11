@@ -8,7 +8,7 @@
 
 This document contains codes from several aspects: **tutorial**, **theory**, **traditional** methods, and **deep** methods.
 
-Testing **dataset** can be found [here](https://github.com/jindongwang/transferlearning/blob/master/doc/dataset.md).
+Testing **dataset** can be found [here](https://github.com/jindongwang/transferlearning/blob/master/data/dataset.md).
 
 - - -
 
@@ -87,7 +87,7 @@ Testing **dataset** can be found [here](https://github.com/jindongwang/transferl
 - **MEDA** (Manifold Embedded Distribution Alignment, ACM MM-18) [47]
 	- [Matlab(Official)](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/MEDA)
 - **EasyTL** (Practically Easy Transfer Learning, ICME-19) [63]
-    - [Matlab(Official)](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/EasyTL)
+    - [Matlab(Official)](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/EasyTL) | [Python](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/pyEasyTL)
 
 - **SCA** (Scatter Component Analysis, TPAMI-17) [79]
     - [Matlab](https://github.com/amber0309/SCA)
@@ -215,6 +215,9 @@ Testing **dataset** can be found [here](https://github.com/jindongwang/transferl
 
 - **DAEL** (Domain Adaptive Ensemble Learning, ArXiv 2020) [81]
     - [Pytorch](https://github.com/KaiyangZhou/Dassl.pytorch)
+
+- **DSAN** (Deep Subdomain Adaptation Network for Image Classification, DSAN 2020) [82]
+    - [Pytorch](https://github.com/jindongwang/transferlearning/tree/master/code/deep/DSAN)
 
 ## Applications
 
